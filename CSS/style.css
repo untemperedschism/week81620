@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  font-size: 10px;
+}
+
+.container {
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-evenly; */
+  align-items: stretch;
+}
+
+p {
+  font-size: 2rem;
+  border: 1rem solid pink;
+}
